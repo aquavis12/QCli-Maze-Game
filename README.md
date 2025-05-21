@@ -30,7 +30,7 @@ A simple 2D maze runner game built with PyGame where players navigate through in
 
 ## Game Video (Find out what will there in level-3)
 
-<video controls src="Recording 2025-05-21 171131.mp4" title="Game"></video>
+[Game Video](https://www.youtube.com/watch?v=cfSYiKgdmf0)
 
 ## Requirements
 
