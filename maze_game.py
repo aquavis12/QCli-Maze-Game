@@ -371,7 +371,8 @@ def show_title_screen():
                 sys.exit()
             
             if event.type == pygame.MOUSEBUTTONDOWN:
-                if start_button.is_hovered(pygame.mouse.get_pos()):
+                mouse_pos = pygame.mouse.get_pos()
+                if start_button.is_hovered(mouse_pos):
                     title_running = False  # Exit title screen and start game
             
             if event.type == pygame.KEYDOWN:
@@ -381,8 +382,9 @@ def show_title_screen():
                     pygame.quit()
                     sys.exit()
         
-        # Update button hover state
-        start_button.update(pygame.mouse.get_pos())
+        # Update button hover states
+        mouse_pos = pygame.mouse.get_pos()
+        start_button.update(mouse_pos)
         
         # Draw title screen
         screen.fill(BLACK)
