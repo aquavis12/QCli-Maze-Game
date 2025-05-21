@@ -1,4 +1,5 @@
 # Q Maze Runner
+
 ![Main](/assets/image.png)
 
 A simple 2D maze runner game built with PyGame where players navigate through increasingly difficult mazes while collecting tokens and avoiding obstacles.
@@ -28,6 +29,7 @@ A simple 2D maze runner game built with PyGame where players navigate through in
    - +10 points for completing a level
 
 ## Game Video (Find out what will there in level-3)
+
 <video controls src="Recording 2025-05-21 171131.mp4" title="Game"></video>
 
 ## Requirements
@@ -39,7 +41,7 @@ A simple 2D maze runner game built with PyGame where players navigate through in
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/QCli-Maze-Game.git
+git clone https://github.com/aquavis12/QCli-Maze-Game
 
 # Navigate to the game directory
 cd QCli-Maze-Game
