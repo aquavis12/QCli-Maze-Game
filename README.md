@@ -60,7 +60,7 @@ python3 maze_game.py
 
 Read more about the development process and game design:
 
-- [Dev.to Blog Post](https://dev.to/yourusername/building-a-maze-runner-game-with-pygame-xxxx)
+- [Dev.to Blog Post](https://dev.to/aws-builders/using-amazon-q-cli-pygame-to-build-a-3-level-maze-game-with-hearts-hazards-5an9)
 - [Hashnode Article](https://yourusername.hashnode.dev/creating-a-2d-maze-game-with-pygame)
 
 ## License
